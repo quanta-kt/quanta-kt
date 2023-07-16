@@ -10,5 +10,4 @@ Also fiddling around with **react.js**.
 ---
 
 Reach me out via e-mail: [abhijeet.nkt@gmail.com](mailto:abhijeet.nkt@gmail.com)  
-We can also connect on Discord: `quanta.rs` 
-Checkout my resume: [quanta-kt/resume](https://quanta-kt.github.io/resume/)
+We can also connect on Discord: `quanta.rs`
