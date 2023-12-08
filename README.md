@@ -1,13 +1,14 @@
 ### Hello 👋
 
-I am a student based in India, passionate about writting software  
-My primary interests include Android dev and web
+I am a hobbyist + professional developer.  
+My primary interests include Android dev and web.
 
-My comfort languages are **Kotlin** and **Python**.  
-I am currently learning **Rust** and slowly falling in love with the language.  
-Also fiddling around with **react.js**.  
+My comfort languages are **Kotlin** and **Python** (and more recently, **Rust**).  
+Currently exploring compiler development / language hacking.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanta-kt&theme=radical&layout=donut)
+ 
 Reach me out via e-mail: [abhijeet.nkt@gmail.com](mailto:abhijeet.nkt@gmail.com)  
 We can also connect on Discord: `quanta.rs`
